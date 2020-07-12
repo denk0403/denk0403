@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my GitHub profile! Here are a few things to know about me:
+- 🏫 I'm a rising junior at Northeastern University.
+- 🌱 I’m currently learning back-end web development.
+- 📫 You can reach me quickest by [email](mailto:denniskats43@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I couldn't snap with my fingers until I was 17.
 
 <!--
 **denk0403/denk0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

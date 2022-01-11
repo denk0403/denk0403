@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello! 👋
 Welcome to my GitHub profile! Here are a few things to know about me:
-- 🏫 I'm a rising senior and honors student at Northeastern University.
-- 🌱 I’m currently learning back-end web development, and front-end mobile development with React Native.
+- 🏫 I'm a senior Computer Science & Math honors student at Northeastern University.
+- 🌱 I’m interested in full-stack web development, and I'm currrently learning Rust and WebAssembly.
 - 📫 You can reach me quickest by [email](mailto:denniskats43@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I couldn't snap with my fingers until I was 17.

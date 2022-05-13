@@ -1,7 +1,7 @@
 ### Hello! 👋
 Welcome to my GitHub profile! Here are a few things to know about me:
-- 🏫 I'm a senior Computer Science & Math honors student at Northeastern University.
-- 🌱 I’m interested in full-stack web development, and I'm currrently learning Rust and WebAssembly.
+- 🏫 I graduated from Northeastern University with a degree in Computer Science & Mathematics.
+- 🌱 I specialize in full-stack web development, and I'm currrently learning Rust and WebAssembly.
 - 📫 You can reach me quickest by [email](mailto:denniskats43@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I couldn't snap with my fingers until I was 17.

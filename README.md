@@ -1,10 +1,9 @@
-### Hello! 👋
-Welcome to my GitHub profile! Here are a few things to know about me:
+## Hello! 👋
+My name is Dennis, and here is what you should know about me:
 - 🏫 I graduated from Northeastern University with a degree in Computer Science & Mathematics.
-- 🌱 I specialize in full-stack web development, and I'm currrently learning Rust and WebAssembly.
+- 🌱 I primarily do full-stack web development, but I'm currently learning some systems programming and WebAssembly.
 - 📫 You can reach me quickest by [email](mailto:denniskats43@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I couldn't snap with my fingers until I was 17.
+- ⚡ Fun fact: I didn't learn to snap with my fingers until I was 17.
 
 <p align="center">
 	<a href="https://github.com/denk0403"><img src="https://img.shields.io/github/followers/denk0403.svg?label=GitHub&style=for-the-badge" alt="GitHub"></a>
